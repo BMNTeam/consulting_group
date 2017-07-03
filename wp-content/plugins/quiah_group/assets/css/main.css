@@ -1,0 +1,29 @@
+.bmn-vertical-navigation li {
+    display: block !important;
+    width: 100%;
+}
+
+.bmn-vertical-navigation {
+    border-bottom: none!important;
+    margin-top: 20px;
+}
+
+html body .bmn-tabs.active a,
+html body .bmn-tabs.active a:hover
+{
+    border: 1px solid transparent;
+    background-color: #c79d63 !important;
+    color: #fff !important;
+}
+
+.carier_image::before {
+    content: 'YOU ARE MORE THAN A RESUME';
+    display: inline-block;
+    left: 0%;
+    width: 100%;
+    top: 50%;
+    position: absolute;
+    font-size: 50px;
+    color: #fff;
+
+}
